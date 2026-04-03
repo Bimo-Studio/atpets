@@ -1,0 +1,47 @@
+category,value,weight
+body,round,1
+body,slender,1
+body,quadruped,1
+body,floating,0.7
+
+skin,fur,1
+skin,scales,1
+skin,gelatinous,0.6
+skin,crystalline,0.4
+
+color_primary,teal,1
+color_primary,orange,1
+color_primary,violet,1
+color_primary,lime,1
+
+color_secondary,cream,1
+color_secondary,black,1
+color_secondary,gold,0.6
+color_secondary,none,0.8
+
+eyes,large glossy eyes,1
+eyes,multiple small eyes,0.5
+eyes,glowing eyes,0.7
+
+ears,long ears,1
+ears,none,0.8
+ears,fin-like ears,0.6
+
+tail,fluffy tail,1
+tail,crystal tail,0.5
+tail,split tail,0.6
+tail,none,0.7
+
+special,bioluminescent markings,0.6
+special,floating particles,0.5
+special,mechanical accents,0.4
+special,plant growth on body,0.4
+special,none,1
+
+pose,standing,1
+pose,sitting,1
+pose,hovering,0.7
+
+expression,happy,1
+expression,curious,1
+expression,mischievous,0.8
